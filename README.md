@@ -4,7 +4,7 @@
 
 <img src='https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif' alt='Coding'>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ryan-malvyn&label=Profile%20views&color=0e75b6&style=flat" alt="ryan-malvyn" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ryan-malvyn&label=Profile%20views&color=0e75b6&style=flat" alt="ryan-malvyn" /> </p>
 
 - 🔭 I’m currently working on [My Portfolio Website](https://github.com/ryan-malvyn/ryan-malvyn)
 
