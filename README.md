@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ryan Malvyn</h1>
 <h3 align="center">A passionate self-taught front end web developer in Taiwan.</h3>
 
-<img src='https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif' alt='Coding' style='align:center'>
+<img src='https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif' alt='Coding' style='width:100%'>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ryan-malvyn&label=Profile%20views&color=0e75b6&style=flat" alt="ryan-malvyn" /> </p>
 
